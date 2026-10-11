@@ -2,7 +2,7 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-local BASE = 'https://raw.githubusercontent.com/joustingmatch/Ouroboros/main/games/'
+local BASE = 'https://raw.githubusercontent.comricardojrgavin-afk/Aero-Hubv3/main/games/'
 
 local games = {
     [92484997704115]    = '+1 Anime Loot Upgrade.lua',
