@@ -5,8 +5,8 @@ end
 local BASE = 'https://raw.githubusercontent.com/joustingmatch/Ouroboros/main/games/'
 
 local games = {
-    [9190691]    = 'hhukss.lua',
-    [896806231]  = '97d5gt.lua',
+    [92484997704115]    = '+1 Anime Loot Upgrade.lua',
+    [109509029034984]  = '+1 Aura Per Click.lua',
     [526108378] = 'w8y59w.luau',
     [187288153] = '37fjt9.luau',
     [479094425] = 'ea8fxc.luau',
